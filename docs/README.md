@@ -1,15 +1,12 @@
-# mooc-ui-test 组件库
+# 快速开始
 
-### 快速开始
-
-#### 1、安装组件库
-
+#### 安装组件库
 ```bash
-npm i mooc-ui-test
+npm install mooc-ui-test
 ```
 
-#### 2、引用组件库
-
+#### 引用组件库
+>在main.js中引用组件库
 ```javascript
 //全部引入
 import 'mooc-ui-test/dist/css/index.css';
